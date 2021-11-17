@@ -1,0 +1,22 @@
+ul {
+   font-size: 35px;
+}
+
+ul, li {
+    margin: 0;
+    padding: 10px;
+}
+
+ul li {
+    cursor: pointer;
+    border-radius: 16px;
+    margin: 10px;
+    list-style-type: none;
+    text-align: center;
+    background: #e3e4ee;
+    color: #333333;
+}
+
+ul li:hover {
+    background: #cbcedf;
+}
